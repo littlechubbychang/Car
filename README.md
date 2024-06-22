@@ -220,7 +220,7 @@ function doPost(e) {
   return  ContentService.createTextOutput(myFoldername+"/"+myFilename+"\n"+imageUrl+"\n"+res);
 }
 ```
-**存取設定須給「所有人」：**
+**注意存取設定須給「所有人」：**
 ![image](https://github.com/littlechubbychang/Car/assets/161729298/c5fcf4bb-d576-4695-84fb-0b838d610867)
 
 
