@@ -140,9 +140,9 @@ https://www.amebaiot.com/en/amebapro2-amb82-mini-arduino-getting-started/
 #define SERVO_PIN              8
 
 ```
-
+<br /><br />
 ### Google Apps Script的執行程式碼有兩種：
-**可依情況自行選擇**<br /><br />
+**可依情況自行選擇**<br />
 **第一種(未包含Line Notify)：**
 ```
 function doPost(e) {
@@ -220,7 +220,7 @@ function doPost(e) {
   return  ContentService.createTextOutput(myFoldername+"/"+myFilename+"\n"+imageUrl+"\n"+res);
 }
 ```
-**存取設定要給「所有人」：**
+**存取設定須給「所有人」：**
 ![image](https://github.com/littlechubbychang/Car/assets/161729298/c5fcf4bb-d576-4695-84fb-0b838d610867)
 
 
