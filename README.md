@@ -36,6 +36,8 @@ https://www.amebaiot.com/en/amebapro2-amb82-mini-arduino-getting-started/
 
 ## System Block Diagram
 
+![螢幕擷取畫面 2024-06-22 195623](https://github.com/littlechubbychang/Car/assets/161729298/fb8c8e0a-679c-46c6-aeaf-6cc608f70427)
+
 ![image](https://github.com/littlechubbychang/Car/assets/168112225/b05d2eb6-453c-440d-9dc6-694fba47bd45)
 
 ***
