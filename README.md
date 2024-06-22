@@ -44,7 +44,7 @@ https://www.amebaiot.com/en/amebapro2-amb82-mini-arduino-getting-started/
 
 ## Code
 
-### Code:[CAR.ino](https://github.com/littlechubbychang/Car/blob/main/CAR.ino)<br />
+### Main Code:[CAR.ino](https://github.com/littlechubbychang/Car/blob/main/CAR.ino)<br />
 以下為部分程式碼展示
 ```
 #define UART_SERVICE_UUID      "6E400001-B5A3-F393-E0A9-E50E24DCCA9E"
