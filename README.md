@@ -1,8 +1,5 @@
-## The "main code" of the project is "CAR.ino".<br />這個報告的「主要運行程式碼」在「CAR.ino」。  
-
-***
- 
 # Stir-fried Minced Pork Car
+## Product Definition
 ### 1.人臉辨識：
 >**註冊組員臉部相片，當車子偵測到組員的臉時，亮起LED燈**
 
